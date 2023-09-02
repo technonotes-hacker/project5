@@ -1,4 +1,4 @@
 this is a linux file
-using linux mint.
+using linux ubuntu.
 version 20.1
 .
